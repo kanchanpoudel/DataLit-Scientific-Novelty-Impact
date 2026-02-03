@@ -17,8 +17,7 @@ This repository contains the data collection and preprocessing pipeline for a sc
 ├── clean_and_merge_dbs.ipynb              # Step 5: Clean data and merge databases
 ├── generate_embeddings.ipynb              # Step 6: Generate SPECTER2 embeddings
 ├── compute_metrics.ipynb                  # Step 7: Compute novelty metrics
-├── analysis.ipynb                         #
-Step 8: Novelty and Citation alalysis
+├── analysis.ipynb                         # Step 8: Novelty and Citation alalysis
 ├── data/                                  # Stored data artifacts
 │   ├── dbs/                               # SQLite databases
 │   ├── embeddings/                        # Precomputed embedding files
